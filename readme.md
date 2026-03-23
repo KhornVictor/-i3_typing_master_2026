@@ -1,6 +1,6 @@
 # Typing master 2026
 
-1)	Welcome menu screen	=> YOU
+1)	Welcome menu screen	=> Me
 2)	User registering screen	=> Pen Bunnaka
 3)	User reset password screen	=> Pen Bunnaka
 4)	User login screen		=> Pen Bunnaka
